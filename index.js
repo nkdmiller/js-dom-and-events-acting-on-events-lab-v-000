@@ -13,3 +13,6 @@ function addNewElementAsLi(){
 }
 preventRefreshOnSubmit()
 
+function addNewLineonClick(){
+  document.query
+}
