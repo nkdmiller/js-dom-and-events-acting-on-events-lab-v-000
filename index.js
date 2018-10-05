@@ -20,4 +20,6 @@ function addNewLiOnClick(){
   });
 }
 
-function retrieveEmployeeInformation
+function clearEmployeeListOnClick(){
+  
+}
