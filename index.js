@@ -5,7 +5,8 @@ function preventRefreshOnSubmit(){
 }
 
 function retrieveEmployeeInformation(){
-  var bla = $('#txt_name').val();
+  var bla = $('#box').val();
+  return bla;
 }
 
 preventRefreshOnSubmit()
