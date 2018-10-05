@@ -9,6 +9,6 @@ function retrieveEmployeeInformation(){
 }
 
 function addNewElementAsLi(){
-  return document.querySelector("")
+  return document.querySelector("ul.employee-list").append(retrieveEmployeeInformation());
 }
 preventRefreshOnSubmit()
