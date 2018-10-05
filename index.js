@@ -12,3 +12,4 @@ function addNewElementAsLi(){
   return document.querySelector("ul.employee-list").append(retrieveEmployeeInformation());
 }
 preventRefreshOnSubmit()
+
