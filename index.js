@@ -14,5 +14,5 @@ function addNewElementAsLi(){
 preventRefreshOnSubmit()
 
 function addNewLineonClick(){
-  document.querySelector("input[name='name']").addEventHandler(click, )
+  document.querySelector("input[name='name']").addEventHandler("click", function["event"])
 }
