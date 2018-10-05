@@ -4,6 +4,6 @@ function preventRefreshOnSubmit(){
     })
 }
 
-
+function 
 
 preventRefreshOnSubmit()
