@@ -14,7 +14,7 @@ function addNewElementAsLi(){
 preventRefreshOnSubmit()
 
 function addNewLiOnClick(){
-  document.querySelector("input[name='submit']").addEventListener("click", function(event){
+  document.querySelector("input[type='submit']").addEventListener("click", function(event){
     addNewElementAsLi();
     document.querySelector("input[name='name']").value("");
   });
