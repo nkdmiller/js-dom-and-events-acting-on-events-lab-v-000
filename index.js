@@ -8,4 +8,7 @@ function retrieveEmployeeInformation(){
   return document.querySelector("input[name='name']").value;
 }
 
+function addNewElementAsLi(){
+  return document.
+}
 preventRefreshOnSubmit()
