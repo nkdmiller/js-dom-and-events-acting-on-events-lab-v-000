@@ -5,7 +5,7 @@ function preventRefreshOnSubmit(){
 }
 
 function retrieveEmployeeInformation(){
-  return document
+  return document.querySelector("input[")
 }
 
 preventRefreshOnSubmit()
