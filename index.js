@@ -13,7 +13,7 @@ function addNewElementAsLi(){
 }
 preventRefreshOnSubmit()
 
-function addNewLineonClick(){
+function addNewLionClick(){
   document.querySelector("input[name='name']").addEventHandler("click", function(event){
     addNewElementAsLi();
     document.querySelector("input[name='name']").value("");
