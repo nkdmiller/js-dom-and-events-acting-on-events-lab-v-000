@@ -19,3 +19,5 @@ function addNewLiOnClick(){
     document.querySelector("input[name='name']").value = "";
   });
 }
+
+function retrieveEmployeeInformation
